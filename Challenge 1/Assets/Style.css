@@ -1,0 +1,75 @@
+.nav-link {
+    font-style: helvetica;
+    color: black;
+}
+
+ul.nav li.nav-item {
+    list-style: none;
+}
+
+.carousel-inner .card {
+    background-color: #F1F3FF;
+}
+
+.box {
+    width: 100px;
+    height: 34px;
+    background: #0D28A6;
+    align-items: left;
+}
+
+ul li {
+    list-style-image: url(Group_list.png);
+}
+
+btn.btn-link {
+    color: black;
+}
+
+.typo1 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+}
+
+.typo2 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.typo3 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 36px;
+}
+
+.typo4 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.typo5 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.typo6 {
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+}
